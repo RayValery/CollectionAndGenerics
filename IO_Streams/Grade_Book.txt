@@ -1,0 +1,46 @@
+
+
+==============================
+Student: Jorge
+Avarage grade: 59.0
+Subject: English | 63
+Subject: Programming | 77
+Subject: Math | 55
+Subject: Phisics | 40
+Subject: History | 60
+
+==============================
+Student: Jorjer
+Avarage grade: 59.0
+Subject: English | 63
+Subject: Programming | 77
+Subject: Math | 55
+Subject: Phisics | 40
+Subject: History | 60
+
+==============================
+Student: Mikle
+Avarage grade: 65.0
+Subject: English | 83
+Subject: History | 40
+Subject: Math | 55
+Subject: Phisics | 60
+Subject: Programming | 87
+
+==============================
+Student: Alex
+Avarage grade: 83.0
+Subject: Math | 85
+Subject: Phisics | 70
+Subject: History | 80
+Subject: English | 93
+Subject: Programming | 87
+
+==============================
+Student: Alice
+Avarage grade: 93.0
+Subject: History | 90
+Subject: Math | 95
+Subject: Programming | 97
+Subject: English | 93
+Subject: Phisics | 92
